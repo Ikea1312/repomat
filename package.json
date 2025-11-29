@@ -1,0 +1,10 @@
+{
+  "name": "qc-discord-bot",
+  "version": "1.0.0",
+  "description": "QC photo bot for Discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "14.14.1",
+    "axios": "1.6.0"
+  }
+}
